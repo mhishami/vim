@@ -1,9 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
-let g:netrw_dirhist_1='/Users/Tracto/Projects/Go/src/github.com/tractocoin/httpd/handlers'
-let g:netrw_dirhist_2='/Users/Tracto/Projects/Go/src/github.com/tractocoin/httpd'
-let g:netrw_dirhist_3='/Users/Tracto/Projects/Go/src/github.com/tractocoin/httpd/handlers'
-let g:netrw_dirhist_4='/Users/Tracto/Projects/Go/src/github.com/tractocoin/httpd'
-let g:netrw_dirhist_5='/Users/Tracto/Projects/Go/src/github.com/tractocoin/httpd/handlers'
-let g:netrw_dirhist_6='/Users/Tracto'
-let g:netrw_dirhist_7='/Users/Tracto/Projects/Erlang/trexchg'
